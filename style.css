@@ -1,0 +1,60 @@
+.wow {
+  width: 100px;
+}
+
+body {
+  background-color: #C4EBE4;
+}
+
+li {
+  display: inline;
+  float: left;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0px;
+  padding: 0px;
+  display: block;
+  overflow: hidden;
+  background-color: #087F8C;
+  
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 20px 22px;
+  text-decoration: none;
+  font-family: "Georgia", serif; 
+}
+
+button {
+  background-color: #095256;
+  color: white;
+  border-radius: 15px 55px;
+  padding: 20px;
+  width: 130px;
+  height: 70px;
+  border: none;
+  text-align: center;
+  display: inline-block;
+  font-family: "Georgia", serif;
+}
+
+h3 {
+  color: #564256;
+  font-family: "Georgia", monospace;
+}
+
+h1 {
+  color: #020887;
+  font-family: "Georgia", serif;
+}
+
+img {
+  float: right;
+  width: 200px;
+  height: 200px;
+}
